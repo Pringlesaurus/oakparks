@@ -1,0 +1,65 @@
+h1 {
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
+p {
+    color: white;
+    text-align: center;
+
+}
+body {
+    background-color: rgb(10, 10, 10);
+}
+div {
+    text-align: center;
+}
+textarea {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(20, 20, 20);
+    color: white;
+}
+button {
+    background-color: rgb(20, 20, 20);
+    color: white;
+}
+input {
+    background-color: rgb(20, 20, 20);
+    color: white;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+}
+a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+#divhead {
+    color: gray;
+    text-align: center;
+    text-decoration: none;
+}
+
+#main {
+    width: 800px;
+    display: flex;
+    justify-content: center;
+}
+#gamecanvas {
+    display: block;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+
+a{
+    text-align: center;
+    font-size: large;
+}
